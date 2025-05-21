@@ -1,4 +1,4 @@
-# Gabriel_Bristot
+# Gabriel Bristot
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
