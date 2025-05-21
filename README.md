@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">Here are some images from my Prjects:</h2>
+<h2 align="left">Here are some images from my Projects:</h2>
 
 ###
 
