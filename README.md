@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height = "300" src="https://github.com/user-attachments/assets/3fdd742b-a767-4803-ae1a-216ff95a4ede"  />
-  <img height = "300" src="https://github.com/user-attachments/assets/3fdd742b-a767-4803-ae1a-216ff95a4ede"  />
+  <img height = "300" src="https://github.com/user-attachments/assets/5eebc3c6-c01c-472f-a4a4-e93021e9f753"  />
 </div>
 
 ###
